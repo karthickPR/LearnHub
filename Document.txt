@@ -5,3 +5,7 @@
 3. Audio Call
 
 4. Video Call
+
+5. Adding Status
+
+6. Adding Last Seen
